@@ -1,12 +1,11 @@
 html{
-  background-color: brown;
+  background-color: #ebd307;
 }
 h1{
-  font-size: 35px;
+  font-size: 100px;
   color: green;
   text-align: center;
 }
-
 
 .paul{
   font-style:italic;
@@ -16,11 +15,11 @@ h1{
   color:purple;
 }
 .img1{
-  padding-left: 450px;
+  padding-left: 400px;
 }
-.ron1{
+.ron{
   font-size: 30px;
 }
 .ron2{
-  fontsize: 30px;
+  font-size: 30px;
 }

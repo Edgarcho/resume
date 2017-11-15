@@ -1,0 +1,26 @@
+html{
+  background-color: brown;
+}
+h1{
+  font-size: 35px;
+  color: green;
+  text-align: center;
+}
+
+
+.paul{
+  font-style:italic;
+}
+.mike{
+  font-weight: bold;
+  color:purple;
+}
+.img1{
+  padding-left: 450px;
+}
+.ron1{
+  font-size: 30px;
+}
+.ron2{
+  fontsize: 30px;
+}
